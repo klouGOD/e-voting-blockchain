@@ -1,0 +1,4 @@
+# vscode folders
+.vscode
+# python cache files
+*.pyc
